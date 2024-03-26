@@ -17,7 +17,7 @@ function openCartPanel() {
 
 function closeCartPanel() {
     const cartPanel = document.getElementById('cart-panel');
-    cartPanel.style.left = '-340px';
+    cartPanel.style.left = '-392px';
 }
 
 function updateTotalPrice() {
